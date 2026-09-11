@@ -1,0 +1,19 @@
+# Restored fixed inputs
+/reproduction/inputs/v3-trace.blocks
+/reproduction/inputs/v5-domain4.blocks
+
+# Generated proof material
+*.cnf
+*.drat
+*.log
+/branches/
+/combined/
+/reduced/
+/reference/
+/tools/
+
+# Local build and editor files
+*.o
+*.out
+.DS_Store
+*~
